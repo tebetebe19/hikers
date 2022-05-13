@@ -14,5 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('visitor-page.home');
+});
+Route::get('/tracks', function () {
+    return view('visitor-page.tracks');
 });

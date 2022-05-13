@@ -33,71 +33,16 @@
             <i class="menu-btn"></i>
             <div class="menu-cnt">
                 <ul id="main-menu">
-                    <li class="dropdown">
-                        <a href="#">Home</a>
-                        <ul>
-                            <li><a href="index.html">Main</a></li>
-                            <li><a href="index-2.html">Home two</a></li>
-                            <li><a href="index-3.html">Home three</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#">Pages</a>
-                        <ul>
-                            <li class="dropdown-submenu">
-                                <a>About</a>
-                                <ul>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="team.html">Team</a></li>
-                                    <li><a href="team-2.html">Team two</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown-submenu">
-                                <a>Special</a>
-                                <ul>
-                                    <li><a href="food.html">Food</a></li>
-                                    <li><a href="shelters.html">Shelters</a></li>
-                                    <li><a href="events.html">Events</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown-submenu">
-                                <a>Others</a>
-                                <ul>
-                                    <li><a href="prices.html">Prices</a></li>
-                                    <li><a href="history.html">History</a></li>
-                                    <li><a href="gallery.html">Gallery</a></li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="elements/components/buttons.html">Elements</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a href="treks.html">Treks</a>
-                        <ul>
-                            <li><a href="treks.html">Treks</a></li>
-                            <li><a href="treks-single.html">Single trek</a></li>
-                        </ul>
+                    <li>
+                        <a href="#">About</a>
                     </li>
                     <li>
-                        <a href="blog.html">Blog</a>
+                        <a href="#">Tracks</a>
                     </li>
                     <li>
-                        <a href="contacts.html">Contacts</a>
+                        <a href="#">Contacts</a>
                     </li>
                 </ul>
-                {{-- <div class="menu-right">
-                    <ul class="lan-menu">
-                        <li class="dropdown">
-                            <a href="#"><img src="media/en.png" />EN </a>
-                            <ul>
-                                <li><a href="#"><img src="media/it.png" />IT</a></li>
-                                <li><a href="#"><img src="media/es.png" />ES</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div> --}}
             </div>
         </div>
     </nav>
@@ -175,8 +120,8 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="img-box lightbox" href="{{asset('assets/img/image-4 .jpg')}}" data-lightbox-anima="fade-top">
-                                    <img src="{{asset('assets/img/image-4 .jpg')}}" alt="">
+                                <a class="img-box lightbox" href="{{asset('assets/img/image-4.jpg')}}" data-lightbox-anima="fade-top">
+                                    <img src="{{asset('assets/img/image-4.jpg')}}" alt="">
                                 </a>
                             </li>
                         </ul>
@@ -185,7 +130,7 @@
                 <hr class="space-lg" />
             </div>
         </section>
-        <section class="section-base">
+        {{-- <section class="section-base">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8">
@@ -266,7 +211,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
         <section class="section-base section-color">
             <div class="container">
                 <div class="title align-center align-left-md">
@@ -582,11 +527,11 @@
                         </ul>
                     </div>
                     <div class="col-lg-6" data-anima="fade-left" data-time="2000">
-                        <h1 class="text-lg text-uppercase text-black">Hiking Package</h1>
+                        <h1 class="text-lg text-uppercase text-black">Adventure Package</h1>
                         <p>
                             Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiure consectetur adipisicing a didunto persmo. 
                         </p>
-                        <a href="treks.html" class="btn btn-sm btn-circle">All treks</a> <a href="team.html" class="btn btn-sm btn-circle btn-border">The team</a>
+                        <a href="treks.html" class="btn btn-sm btn-circle">Start Journey</a>
                         <hr class="space hidden-md" />
                     </div>
                 </div>
