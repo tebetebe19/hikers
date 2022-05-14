@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home | 1 | Alpins | Mountain and trekking Template</title>
+    <title>$320 / Rp 4.500.000</title>
     <meta name="description" content="">
     <script src="{{asset('assets/themekit/scripts/jquery.min.js')}}"></script>
     <script src="{{asset('assets/themekit/scripts/main.js')}}"></script>
