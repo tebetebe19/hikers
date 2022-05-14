@@ -1,4 +1,4 @@
-<nav class="menu-classic menu-fixed menu-transparent light align-right" data-menu-anima="fade-in">
+<nav class="menu-classic menu-fixed {{ Request::is('/') ? 'menu-transparent light' : '' }}  align-right " data-menu-anima="fade-in">
     <div class="container">
         <div class="menu-brand">
             <a href="#">
@@ -12,10 +12,10 @@
         <div class="menu-cnt">
             <ul id="main-menu">
                 <li>
-                    <a href="#">Tracks</a>
+                    <a href="/tracks">Tracks</a>
                 </li>
                 <li>
-                    <a href="#">Contacts</a>
+                    <a href="/contact">Contacts</a>
                 </li>
             </ul>
         </div>

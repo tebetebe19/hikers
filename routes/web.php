@@ -19,3 +19,9 @@ Route::get('/', function () {
 Route::get('/tracks', function () {
     return view('visitor-page.tracks');
 });
+Route::get('/tracks-detail', function () {
+    return view('visitor-page.tracks-detail');
+});
+Route::get('/contact', function () {
+    return view('visitor-page.contact');
+});

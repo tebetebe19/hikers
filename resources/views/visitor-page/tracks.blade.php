@@ -29,9 +29,9 @@
                 </div>
                 <div class="maso-box">
                     <div class="maso-item cat-1">
-                        <div class="cnt-box cnt-box-info boxed" data-href="treks-single.html">
+                        <div class="cnt-box cnt-box-info boxed" data-href="/tracks-detail">
                             <div class="extra-field">From $49</div>
-                            <a href="treks-single.html" class="img-box"><img src="{{asset('assets/img/image-1.jpg')}}" alt="" /></a>
+                            <a href="/tracks-detail" class="img-box"><img src="{{asset('assets/img/image-1.jpg')}}" alt="" /></a>
                             <div class="caption">
                                 <h2>Bianco Excursion</h2>
                                 <div class="cnt-info">
@@ -49,9 +49,9 @@
                         </div>
                     </div>
                     <div class="maso-item cat-2">
-                        <div class="cnt-box cnt-box-info boxed" data-href="treks-single.html">
+                        <div class="cnt-box cnt-box-info boxed" data-href="/tracks-detail">
                             <div class="extra-field">From $99</div>
-                            <a href="treks-single.html" class="img-box"><img src="{{asset('assets/img/image-2.jpg')}}" alt="" /></a>
+                            <a href="/tracks-detail" class="img-box"><img src="{{asset('assets/img/image-2.jpg')}}" alt="" /></a>
                             <div class="caption">
                                 <h2>Civetta Trekking</h2>
                                 <div class="cnt-info">
@@ -69,9 +69,9 @@
                         </div>
                     </div>
                     <div class="maso-item cat-1 cat-3 cat-4">
-                        <div class="cnt-box cnt-box-info boxed" data-href="treks-single.html">
+                        <div class="cnt-box cnt-box-info boxed" data-href="/tracks-detail">
                             <div class="extra-field">From $49</div>
-                            <a href="treks-single.html" class="img-box"><img src="{{asset('assets/img/image-3.jpg')}}" alt="" /></a>
+                            <a href="/tracks-detail" class="img-box"><img src="{{asset('assets/img/image-3.jpg')}}" alt="" /></a>
                             <div class="caption">
                                 <h2>Nevegal Trekking</h2>
                                 <div class="cnt-info">
@@ -88,10 +88,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="maso-item cat-2">
-                        <div class="cnt-box cnt-box-info boxed" data-href="treks-single.html">
+                    <div class="maso-item cat-2 cat-4">
+                        <div class="cnt-box cnt-box-info boxed" data-href="/tracks-detail">
                             <div class="extra-field">From $49</div>
-                            <a href="treks-single.html" class="img-box"><img src="{{asset('assets/img/image-4.jpg')}}" alt="" /></a>
+                            <a href="/tracks-detail" class="img-box"><img src="{{asset('assets/img/image-4.jpg')}}" alt="" /></a>
                             <div class="caption">
                                 <h2>Glacier expedition</h2>
                                 <div class="cnt-info">
@@ -109,9 +109,9 @@
                         </div>
                     </div>
                     <div class="maso-item cat-1">
-                        <div class="cnt-box cnt-box-info boxed" data-href="treks-single.html">
+                        <div class="cnt-box cnt-box-info boxed" data-href="/tracks-detail">
                             <div class="extra-field">From $79</div>
-                            <a href="treks-single.html" class="img-box"><img src="{{asset('assets/img/image-5.jpg')}}" alt="" /></a>
+                            <a href="/tracks-detail" class="img-box"><img src="{{asset('assets/img/image-5.jpg')}}" alt="" /></a>
                             <div class="caption">
                                 <h2>Family trip</h2>
                                 <div class="cnt-info">
@@ -129,9 +129,9 @@
                         </div>
                     </div>
                     <div class="maso-item cat-2">
-                        <div class="cnt-box cnt-box-info boxed" data-href="treks-single.html">
+                        <div class="cnt-box cnt-box-info boxed" data-href="/tracks-detail">
                             <div class="extra-field">From $449</div>
-                            <a href="treks-single.html" class="img-box"><img src="{{asset('assets/img/image-6.jpg')}}" alt="" /></a>
+                            <a href="/tracks-detail" class="img-box"><img src="{{asset('assets/img/image-6.jpg')}}" alt="" /></a>
                             <div class="caption">
                                 <h2>Monte Excursion</h2>
                                 <div class="cnt-info">
