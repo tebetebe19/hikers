@@ -1,7 +1,7 @@
 <nav class="menu-classic menu-fixed {{ Request::is('/') ? 'menu-transparent light' : '' }}  align-right " data-menu-anima="fade-in">
     <div class="container">
         <div class="menu-brand">
-            <a href="#">
+            <a href="/">
                 <img class="logo-default scroll-hide" src="{{asset('assets/media/logo-white-blue.svg')}}" alt="logo" />
                 <img class="logo-retina scroll-hide" src="{{asset('assets/media/logo-white-blue.svg')}}" alt="logo" />
                 <img class="logo-default scroll-show" src="{{asset('assets/media/logo-white-solid.svg')}}" alt="logo" />
